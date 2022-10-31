@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.myfitnesssuites.com	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22music-manager-my-albums%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+www.myfitnesssuites.com	TRUE	/	FALSE	1999999999	hs	1129368866
+www.myfitnesssuites.com	TRUE	/	FALSE	1999999999	svSession	49c5dc92c308b28f209e6e82219e4c4eee4dc79298014e16c0d87731e61d0e316e7b39b8fef993f45e7c66d6daa452031e60994d53964e647acf431e4f798bcd53f2e87534c6aab11f378b7bfcc1c9d5d45fe965e53698cfd1870c2856090d7206ff3122773a202e90e17ba240dddaac29bae0acc1afd460bce7b343f60791007c0c9535238e11f8eb0f67ca4f6a8d36
+www.myfitnesssuites.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038259|IP9z3P93kpUK
+www.myfitnesssuites.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.myfitnesssuites.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly
+
